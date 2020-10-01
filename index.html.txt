@@ -5,7 +5,7 @@
 </head>
      <body>
             <marquee  direction="left" height= "30px" bgcolor= "black" style=" color: white; font-family: 'Oswald', sans-serif; font-size: 20px;">
-             PLEASE BE AWARE OF THE THREAT CALLS AND PLEASE DONOT GIVE ANY IMFORMATION ABOUT YOUR ADHAAR TO ANY ONE.</marquee>
+             PLEASE BE AWARE OF THE THREAT CALLS AND PLEASE DONOT GIVE ANY INFORMATION ABOUT YOUR ADHAAR TO ANY ONE.</marquee>
         <div class="bgimage">
                 <div class="item1">
                 <div style="background-color: black;">
